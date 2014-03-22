@@ -9,3 +9,5 @@ var blonkPushPlugin {
 		);
 	}
 }
+
+module.exports = blonkPushPlugin;
